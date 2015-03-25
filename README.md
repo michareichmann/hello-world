@@ -1,2 +1,4 @@
 # hello-world
-for tutorial purposes
+##################################
+
+This is my first attempt to do something useful with github...
